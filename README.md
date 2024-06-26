@@ -1,7 +1,8 @@
 # TeamWebApplication "Mudli"
 Application "Mudli" was created as group project.
 
-Architecture
+Architecture of "Mudli":
+
 Front End: MVC with Razor, HTML, CSS.
 
 Back End: Utilizes thread-safe methods, concurrent queues, HTTP endpoints, Swagger documentation.
